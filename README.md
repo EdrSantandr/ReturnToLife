@@ -129,4 +129,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact 📧
 
 For any inquiries, suggestions, or feedback, feel free to reach out to us via linkedIn
-```
